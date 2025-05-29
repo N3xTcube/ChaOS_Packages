@@ -1,0 +1,15 @@
+{
+  "packname": "Calc",
+  "version": "1.0.0",
+  "description": "A basic calculator for ChaOS",
+  "checksum":"189df18fa51aba024e726248b065a5341e574bc182c5af81c569cd2433af9b78",
+  "author": {
+    "name": "Kaf212",
+    "email": "N/A",
+    "url": "N/A"
+  },
+  "license": "N/A",
+  "dependencies": {
+    "simpleeval": ">1.0.3"
+  }
+}

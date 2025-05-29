@@ -1,0 +1,16 @@
+{
+  "packlist_pack": [
+    {"name": "calc", "packurl": "(url)"},
+    {"name": "cdbms", "packurl": "(url)"},
+    {"name": "dms3", "packurl": "(url)"}
+  ],
+  "packlist_json": [
+    {"name": "calc", "jsonurl": "(url)"},
+    {"name": "cdbms", "jsonurl": "(url)"},
+    {"name": "dms3", "jsonurl": "(url)"}
+  ],
+  "Repoinfo": {
+    "reponame": "The Official ChaOS repo",
+    "repodesc": "Held together by hopes and dreams."
+  }
+}
