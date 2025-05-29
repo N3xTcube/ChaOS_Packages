@@ -1,4 +1,4 @@
-ChaOS Repo V2
+![alt text](https://github.com/N3xTcube/ChaOS_Packages/blob/main/logo.png?raw=true)
 
 
 ===============================================
