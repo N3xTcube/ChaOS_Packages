@@ -1,13 +1,13 @@
 {
   "packlist_pack": [
-    {"name": "calc", "packurl": "https://github.com/N3xTcube/ChaOS_Packages/raw/refs/heads/main/calc/calc.chaospack"},
-    {"name": "cdbms", "packurl": "https://github.com/N3xTcube/ChaOS_Packages/raw/refs/heads/main/cdbms/cdbms.chaospack"},
-    {"name": "dms3", "packurl": "https://github.com/N3xTcube/ChaOS_Packages/raw/refs/heads/main/dms3/dms3.chaospack"}
+    {"name": "calc", "packurl": "https://github.com/N3xTcube/ChaOS_Packages/raw/refs/heads/main/packages/calc/calc.chaospack"},
+    {"name": "cdbms", "packurl": "https://github.com/N3xTcube/ChaOS_Packages/raw/refs/heads/main/packages/cdbms/cdbms.chaospack"},
+    {"name": "dms3", "packurl": "https://github.com/N3xTcube/ChaOS_Packages/raw/refs/heads/main/packages/dms3/dms3.chaospack"}
   ],
   "packlist_json": [
-    {"name": "calc", "jsonurl": "https://github.com/N3xTcube/ChaOS_Packages/raw/refs/heads/main/calc/pack.json"},
-    {"name": "cdbms", "jsonurl": "https://github.com/N3xTcube/ChaOS_Packages/raw/refs/heads/main/cdbms/pack.json"},
-    {"name": "dms3", "jsonurl": "https://github.com/N3xTcube/ChaOS_Packages/raw/refs/heads/main/dms3/pack.json"}
+    {"name": "calc", "jsonurl": "https://github.com/N3xTcube/ChaOS_Packages/raw/refs/heads/main/packages/calc/pack.json"},
+    {"name": "cdbms", "jsonurl": "https://github.com/N3xTcube/ChaOS_Packages/raw/refs/heads/main/packages/cdbms/pack.json"},
+    {"name": "dms3", "jsonurl": "https://github.com/N3xTcube/ChaOS_Packages/raw/refs/heads/main/packages/dms3/pack.json"}
   ],
   "Repoinfo": {
     "reponame": "The Official ChaOS repo",
