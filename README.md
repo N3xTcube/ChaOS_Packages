@@ -11,5 +11,5 @@ Why not?
 
 Also, chaospack is literally just the zip format.
 
-This is all quite a WIP, I know I'm doing some things wrong, just trying stuff. 
+This is all quite a WIP, I have no idea what I'm doing, could all be wrong, just trying stuff. 
 Throw it at the wall, see what sticks.
