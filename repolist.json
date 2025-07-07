@@ -1,16 +1,32 @@
 {
-  "packlist_pack": [
-    {"name": "calc", "packurl": "https://github.com/N3xTcube/ChaOS_Packages/raw/refs/heads/main/packages/calc/calc.chaospack"},
-    {"name": "cdbms", "packurl": "https://github.com/N3xTcube/ChaOS_Packages/raw/refs/heads/main/packages/cdbms/cdbms.chaospack"},
-    {"name": "dms3", "packurl": "https://github.com/N3xTcube/ChaOS_Packages/raw/refs/heads/main/packages/dms3/dms3.chaospack"}
-  ],
-  "packlist_json": [
-    {"name": "calc", "jsonurl": "https://github.com/N3xTcube/ChaOS_Packages/raw/refs/heads/main/packages/calc/pack.json"},
-    {"name": "cdbms", "jsonurl": "https://github.com/N3xTcube/ChaOS_Packages/raw/refs/heads/main/packages/cdbms/pack.json"},
-    {"name": "dms3", "jsonurl": "https://github.com/N3xTcube/ChaOS_Packages/raw/refs/heads/main/packages/dms3/pack.json"}
-  ],
-  "Repoinfo": {
-    "reponame": "The Official ChaOS repo",
-    "repodesc": "Held together by hopes and dreams."
-  }
+	"Repoinfo": {
+	"reponame": "The Official ChaOS repo",
+	"repodesc": "Held together by hopes and dreams."
+  },
+  "packages": [
+	{"name": "calc", 
+	"packurl": "https://github.com/N3xTcube/ChaOS_Packages/raw/refs/heads/main/packages/calc/calc.chaospack",
+	"checksumurl": "placeholder",
+	"description": "A basic calculator for ChaOS",
+	"version": "1.0.0",
+	"author": "Kaf212",
+	"dependencies": {"simpleeval": ">1.0.3"}
+	},
+	{"name": "cdbms", 
+	"packurl": "https://github.com/N3xTcube/ChaOS_Packages/raw/refs/heads/main/packages/cdbms/cdbms.chaospack",
+	"checksumurl": "placeholder",
+	"description": "The ChaOS Database Management System (THIS PACKAGE HAS NOT BEEN TESTED ON THE LATEST RELEASE OF MYSQL-CONNECTOR-PYTHON AND MIGHT BE BROKEN)",
+	"version": "1.0.0",
+	"author": "Kaf212",
+	"dependencies": {"mysql-connector-python": ">9.3.0"}
+	},
+	{"name": "dms3", 
+	"packurl": "https://github.com/N3xTcube/ChaOS_Packages/raw/refs/heads/main/packages/dms3/dms3.chaospack",
+	"checksumurl": "placeholder",
+	"description": "Dini Mueter Simulator 3 alpha. Objectively an absolute banger",
+	"version": "3.0.0A",
+	"author": "Atzgerware (Kaf212)",
+	"dependencies": {}
+	}
+  ]
 }
