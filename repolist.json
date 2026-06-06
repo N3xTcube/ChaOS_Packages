@@ -8,7 +8,7 @@
 	"packurl": "https://github.com/N3xTcube/ChaOS_Packages/raw/refs/heads/main/packages/calc/calc.chaospack",
 	"checksumurl": "https://github.com/N3xTcube/ChaOS_Packages/raw/refs/heads/main/packages/calc/pack.sha256",
 	"description": "A basic calculator for ChaOS",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"author": "Kaf212",
 	"dependencies": {"simpleeval": ">1.0.3"}
 	},
